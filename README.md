@@ -52,6 +52,19 @@ Revenue Run-Rate Forecast: Projects future revenue based on current trends (R²:
 
 🖋️ Unique Visual Style: The dashboard borrows its design language from the subject matter—invoice paper, ledger stamps, and ticker tape—for a more engaging and contextually relevant user experience.
 
+## 💡 Key Insights
+The dashboard reveals several actionable business insights:
+
+France Dominance: One French customer (Invoice 536370) accounts for 27.4% of total revenue despite representing only 20% of line items.
+
+Volume Over Price: Quantity (r=0.53) is a stronger revenue driver than Unit Price (r=0.28) in this batch.
+
+Skewed Basket Sizes: Average basket size (93.6 units) far exceeds the median (60 units) due to a few bulk orders.
+
+Morning Acceleration: Revenue in the 09:00 hour was 25.7% higher than the 08:00 hour.
+
+Customer Concentration: Top 2 customers (12583, 17850) generate 50.6% of total revenue.
+
 🌓 Light/Dark Theme: A toggle is included for user preference, with both themes maintaining the dashboard's unique visual identity.
 
 📦 Zero Dependencies (Beyond CDN): The entire application is a single HTML file that can be opened directly in any browser, requiring no build steps, server, or external data files.
