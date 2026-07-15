@@ -7,12 +7,19 @@ This repository contains a single, self-contained HTML dashboard designed to dem
 The dashboard surfaces critical business metrics upfront, providing an immediate pulse on the trading window:
 
 Total Revenue	£3,122.93
+
 Total Invoices	14 orders
+
 Total Units Sold	1,310 units
+
 Average Order Value (AOV)	£223.07
+
 Unique Customers	7 buyers
+
 Unique SKUs	73 products
+
 Average Basket Size	93.6 units
+
 Best Model R²	0.98
 
 ## Dashboard Images
