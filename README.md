@@ -28,7 +28,7 @@ Images 5
 <a href = "https://github.com/mdnawaz1/Predictive-Analytics-System-Dashboard/blob/main/Predictive%20Analytics%20System%205.png">Dashbaord Images</a>
 Images 6 
 <a href= "https://github.com/mdnawaz1/Predictive-Analytics-System-Dashboard/blob/main/Predictive%20Analytics%20System%206.png">Dashboard Images</a>
-##🚀 Key Features
+## 🚀 Key Features
 📊 End-to-End Analytics Pipeline: The dashboard showcases a full data science pipeline, from ingesting raw, messy data to generating actionable business insights.
 📈 Real-Time KPI Monitoring: Critical business metrics are displayed prominently, allowing stakeholders to instantly assess revenue, volume, customer activity, and model performance.
 🧹 Data Cleaning & Processing: A regex-based parser is demonstrated to split and clean two composite columns (StockCode+Description, CustomerID+Country), recovering 100% of the data without any row loss.
