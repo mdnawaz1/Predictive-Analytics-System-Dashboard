@@ -14,6 +14,7 @@ Unique Customers	7 buyers
 Unique SKUs	73 products
 Average Basket Size	93.6 units
 Best Model R²	0.98
+
 ## Dashboard Images
 Images 1
 <a href = "https://github.com/mdnawaz1/Predictive-Analytics-System-Dashboard/blob/main/Predictive%20Analytics%20System%201.png">Dashboard Images</a>
